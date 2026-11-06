@@ -1,0 +1,11 @@
+worker_id,name,hourly_rate,night_premium_pct,max_hours_week
+W001,Carlos Silva,20.0,0.2,44
+W002,Ana Oliveira,22.5,0.2,44
+W003,Bruno Santos,20.0,0.2,44
+W004,Renata Lima,25.0,0.2,44
+W005,Eduarda Costa,21.0,0.2,44
+W006,Felipe Souza,20.0,0.2,44
+W007,Gabriel Jesus,23.0,0.2,44
+W008,Helena Dias,21.5,0.2,44
+W009,Igor Batista,20.0,0.2,44
+W010,Julia Martins,24.0,0.2,44
